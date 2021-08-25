@@ -2,6 +2,10 @@
 name = "bit_blend"
 version = "1.0.0"
 authors = ["XenoCorn"]
+description = "Library to merge unsigned ints as bit sequences by a mask"
+repository = "https://github.com/xenocorn/bit_blend"
+readme = "README.md"
+license = "BSD-3-Clause-Clear"
 edition = "2018"
 
 [dependencies]
