@@ -1,6 +1,6 @@
 [package]
 name = "bit_blend"
-version = "1.0.0"
+version = "1.1.0"
 authors = ["XenoCorn"]
 description = "Library to merge unsigned ints as bit sequences by a mask"
 repository = "https://github.com/xenocorn/bit_blend"
